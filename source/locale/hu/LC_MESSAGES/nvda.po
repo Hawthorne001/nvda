@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-30 06:22+0000\n"
-"PO-Revision-Date: 2024-09-02 01:14\n"
+"POT-Creation-Date: 2024-10-07 00:09+0000\n"
+"PO-Revision-Date: 2024-10-08 00:28\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -1313,712 +1313,724 @@ msgstr "Gudzsaráti, rövidítési fokozat 1"
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
 #: brailleTables.py:362
-msgid "Greek international braille"
-msgstr "Görög nemzetközi braille"
+msgid "Greek international braille (2-cell accented letters)"
+msgstr "Görög nemzetközi braille (2-cellás ékezetes betűk)"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
 #: brailleTables.py:365
+msgid "Greek international braille (single-cell accented letters)"
+msgstr "Görög nemzetközi braille (Egycellás ékezetes betűk)"
+
+#. Translators: The name of a braille table displayed in the
+#. braille settings dialog.
+#: brailleTables.py:368
 msgid "Spanish for Greek text"
 msgstr "Spanyol görög szövegekhez"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:368
+#: brailleTables.py:371
 msgid "Hebrew (Biblical) grade 1"
 msgstr "Héber (bibliai) rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:371
+#: brailleTables.py:374
 msgid "Israeli grade 1"
 msgstr "Izraeli, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:374
+#: brailleTables.py:377
 msgid "Hebrew computer braille"
 msgstr "Héber számítógépes braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:377
+#: brailleTables.py:380
 msgid "Hindi grade 1"
 msgstr "Hindi, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:380
+#: brailleTables.py:383
 msgid "Croatian 8 dot computer braille"
 msgstr "Horvát 8 pontos számítógépes braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:383
+#: brailleTables.py:386
 msgid "Croatian grade 1"
 msgstr "Horvát, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:386
+#: brailleTables.py:389
 msgid "Hungarian 8 dot computer braille"
 msgstr "Magyar 8 pontos számítógépes braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:389
+#: brailleTables.py:392
 msgid "Hungarian grade 1"
 msgstr "Magyar irodalmi braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:392
+#: brailleTables.py:395
 msgid "Hungarian grade 2"
 msgstr "Magyar rövidírásos braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:395
+#: brailleTables.py:398
 msgid "Icelandic 8 dot computer braille"
 msgstr "Izlandi 8 pontos számítógépes braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:398
+#: brailleTables.py:401
 msgid "International Phonetic Alphabet"
 msgstr "Nemzetközi fonetikus ABC"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:401
+#: brailleTables.py:404
 msgid "Italian 6 dot computer braille"
 msgstr "Olasz 6 pontos számítógépes braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:404
+#: brailleTables.py:407
 msgid "Italian 8 dot computer braille"
 msgstr "Olasz 8 pontos számítógépes braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:407
+#: brailleTables.py:410
 msgid "Japanese (Kantenji) literary braille"
 msgstr "Japán (Kantenji) irodalmi braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:410
+#: brailleTables.py:413
 msgid "Kannada grade 1"
 msgstr "Kannada, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:413
+#: brailleTables.py:416
 msgid "Georgian literary braille"
 msgstr "Grúz irodalmi braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:416
+#: brailleTables.py:419
 msgid "Kazakh grade 1"
 msgstr "Kazah, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:419
+#: brailleTables.py:422
 msgid "Khmer grade 1"
 msgstr "Khmer, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:422
+#: brailleTables.py:425
 msgid "Northern Kurdish grade 0"
 msgstr "Észak-kurd, Rövidítési fokozat 0"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:425
+#: brailleTables.py:428
 msgid "Korean grade 1 (2006)"
 msgstr "Koreai rövidítési fokozat 1 (2006)"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:428
+#: brailleTables.py:431
 msgid "Korean grade 2 (2006)"
 msgstr "Koreai rövidítési fokozat 2 (2006)"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:431
+#: brailleTables.py:434
 msgid "Korean grade 1"
 msgstr "Koreai rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:434
+#: brailleTables.py:437
 msgid "Korean grade 2"
 msgstr "Koreai rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:437
+#: brailleTables.py:440
 msgid "Kashmiri grade 1"
 msgstr "kasmíri, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:440
+#: brailleTables.py:443
 msgid "Lao Grade 1"
 msgstr "Laoszi, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:443
+#: brailleTables.py:446
 msgid "Luganda literary braille"
 msgstr "Lugandai irodalmi braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:446
+#: brailleTables.py:449
 msgid "Lithuanian 8 dot"
 msgstr "Litván 8 pontos"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:449
+#: brailleTables.py:452
 msgid "Lithuanian 6 dot"
 msgstr "Litván 6 pontos"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:452
+#: brailleTables.py:455
 msgid "Latvian grade 1"
 msgstr "Lett, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:455
+#: brailleTables.py:458
 msgid "Malayalam grade 1"
 msgstr "Malajálam, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:458
+#: brailleTables.py:461
 msgid "Manipuri grade 1"
 msgstr "Manipuri, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:461
+#: brailleTables.py:464
 msgid "Malay grade 2"
 msgstr "Maláj, rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:464
+#: brailleTables.py:467
 msgid "Mongolian grade 1"
 msgstr "Mongol, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:467
+#: brailleTables.py:470
 msgid "Mongolian grade 2"
 msgstr "Mongol, rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:470
+#: brailleTables.py:473
 msgid "Marathi grade 1"
 msgstr "marathi, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:473
+#: brailleTables.py:476
 msgid "Burmese grade 1"
 msgstr "Burmai, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:476
+#: brailleTables.py:479
 msgid "Burmese grade 2"
 msgstr "Burmai, rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:479
+#: brailleTables.py:482
 msgid "Dutch 6 dot"
 msgstr "Holland 6 pontos"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:482
+#: brailleTables.py:485
 msgid "Dutch 8 dot"
 msgstr "Holland 8 pontos"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:485
+#: brailleTables.py:488
 msgid "Norwegian 8 dot computer braille"
 msgstr "Norvég 8 pontos számítógépes braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:488
+#: brailleTables.py:491
 msgid "Norwegian grade 0"
 msgstr "Norvég, rövidítési fokozat 0"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:491
+#: brailleTables.py:494
 msgid "Norwegian grade 1"
 msgstr "Norvég, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:494
+#: brailleTables.py:497
 msgid "Norwegian grade 2"
 msgstr "Norvég, rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:497
+#: brailleTables.py:500
 msgid "Norwegian grade 3"
 msgstr "Norvég, rövidítési fokozat 3"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:500
+#: brailleTables.py:503
 msgid "Nepali grade 1"
 msgstr "Nepáli, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:503
+#: brailleTables.py:506
 msgid "Sepedi grade 1"
 msgstr "Északi-szoto, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:506
+#: brailleTables.py:509
 msgid "Sepedi grade 2"
 msgstr "Északi-szoto, rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:509
+#: brailleTables.py:512
 msgid "Chichewa (Malawi) literary braille"
 msgstr "Csicseva (Malavi) irodalmi braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:512
+#: brailleTables.py:515
 msgid "Oriya grade 1"
 msgstr "Oriya, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:515
+#: brailleTables.py:518
 msgid "Polish 8 dot computer braille"
 msgstr "Lengyel 8 pontos számítógépes braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:518
+#: brailleTables.py:521
 msgid "Polish literary braille"
 msgstr "Lengyel irodalmi braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:521
+#: brailleTables.py:524
 msgid "Portuguese 8 dot computer braille"
 msgstr "Portugál 8 pontos számítógépes braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:524
+#: brailleTables.py:527
 msgid "Portuguese grade 1"
 msgstr "Portugál, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:527
+#: brailleTables.py:530
 msgid "Portuguese grade 2"
 msgstr "Portugál, rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:530
+#: brailleTables.py:533
 msgid "Punjabi grade 1"
 msgstr "Pandzsábi, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:533
+#: brailleTables.py:536
 msgid "Romanian 6 dot"
 msgstr "Román 6 pontos"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:536
+#: brailleTables.py:539
 msgid "Romanian"
 msgstr "Román"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:539
+#: brailleTables.py:542
 msgid "Russian computer braille"
 msgstr "Orosz számítógépes braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:542
+#: brailleTables.py:545
 msgid "Russian literary braille"
 msgstr "Orosz irodalmi braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:545
+#: brailleTables.py:548
 msgid "Russian literary braille (detailed)"
 msgstr "Orosz irodalmi braille részletes"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:548
+#: brailleTables.py:551
 msgid "Russian contracted braille"
 msgstr "Orosz rövidírásos braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:551
+#: brailleTables.py:554
 msgid "Kinyarwanda literary braille"
 msgstr "Ruandai irodalmi braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:554
+#: brailleTables.py:557
 msgid "Sanskrit grade 1"
 msgstr "Szanszkrit, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:557
+#: brailleTables.py:560
 msgid "Yakut grade 1"
 msgstr "Jakut, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:560
+#: brailleTables.py:563
 msgid "Swedish 8 dot computer braille"
 msgstr "Svéd 8 pontos számítógépes braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:563
+#: brailleTables.py:566
 msgid "Slovak grade 1"
 msgstr "Szlovák, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:566
+#: brailleTables.py:569
 msgid "Slovenian 8 dot computer braille"
 msgstr "Szlovén 8 pontos számítógépes braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:569
+#: brailleTables.py:572
 msgid "Slovenian grade 1"
 msgstr "Szlovén, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:572
+#: brailleTables.py:575
 msgid "Sesotho grade 1"
 msgstr "Déli-szoto, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:575
+#: brailleTables.py:578
 msgid "Sesotho grade 2"
 msgstr "Déli-szoto, rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:578
+#: brailleTables.py:581
 msgid "Serbian grade 1"
 msgstr "Szerb, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:581
+#: brailleTables.py:584
 msgid "Serbian Cyrillic grade 1"
 msgstr "Szerb cirill rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:585
+#: brailleTables.py:588
 msgid "Swedish uncontracted braille"
 msgstr "Svéd rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:588
+#: brailleTables.py:591
 msgid "Swedish partially contracted braille"
 msgstr "Svéd részben rövidírásos Braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:591
+#: brailleTables.py:594
 msgid "Swedish contracted braille"
 msgstr "Svéd rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:595
+#: brailleTables.py:598
 msgid "Swahili (Kenya) grade 1"
 msgstr "Szuahéli (Kenya) rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:598
+#: brailleTables.py:601
 msgid "Swahili (Kenya) grade 1.2"
 msgstr "Szuahéli (Kenya) rövidítési fokozat 1.2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:601
+#: brailleTables.py:604
 msgid "Swahili (Kenya) grade 1.3"
 msgstr "Szuahéli (Kenya) rövidítési fokozat 1.3"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:604
+#: brailleTables.py:607
 msgid "Swahili (Kenya) grade 1.4"
 msgstr "Szuahéli (Kenya) rövidítési fokozat 1.4"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:607
+#: brailleTables.py:610
 msgid "Swahili (Kenya) grade 1.5"
 msgstr "Szuahéli (Kenya) rövidítési fokozat 1.5"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:610
+#: brailleTables.py:613
 msgid "Swahili (Kenya) Grade 2"
 msgstr "Szuahéli (Kenya) rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:613
+#: brailleTables.py:616
 msgid "Syriac grade 1"
 msgstr "Szír, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:617
+#: brailleTables.py:620
 msgid "Tamil grade 1"
 msgstr "Tamil, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:620
+#: brailleTables.py:623
 msgid "Tatar grade 1"
 msgstr "Tatár, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:623
+#: brailleTables.py:626
 msgid "Telugu grade 1"
 msgstr "Telugu, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:626
+#: brailleTables.py:629
 msgid "Thai 8 dot computer braille"
 msgstr "Thai 8 pontos számítógépes braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:629
-msgid "Thai 6 dot"
-msgstr "Thai 6 pontos"
+#: brailleTables.py:632
+msgid "Thai grade 0"
+msgstr "Thai, rövidítési fokozat 0"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:632
+#: brailleTables.py:635
+msgid "Thai grade 1"
+msgstr "Thai, rövidítési fokozat 1"
+
+#. Translators: The name of a braille table displayed in the
+#. braille settings dialog.
+#: brailleTables.py:638
 msgid "Turkish grade 1"
 msgstr "Török, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:635
+#: brailleTables.py:641
 msgid "Turkish grade 2"
 msgstr "Török rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:638
+#: brailleTables.py:644
 msgid "Setswana grade 1"
 msgstr "Csvana, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:641
+#: brailleTables.py:647
 msgid "Setswana grade 2"
 msgstr "Csvana, rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:644
+#: brailleTables.py:650
 msgid "Ugaritic grade 1"
 msgstr "Ugariti, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:647
+#: brailleTables.py:653
 msgid "Ukrainian grade 1"
 msgstr "Ukrán, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:650
+#: brailleTables.py:656
 msgid "Ukrainian literary braille (detailed)"
 msgstr "Ukrán irodalmi braille (részletes)"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:653
+#: brailleTables.py:659
 msgid "Ukrainian computer braille"
 msgstr "Ukrán, számítógépes Braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:656
+#: brailleTables.py:662
 msgid "Urdu grade 1"
 msgstr "Urdu, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:659
+#: brailleTables.py:665
 msgid "Urdu grade 2"
 msgstr "Urdu, rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:662
+#: brailleTables.py:668
 msgid "Uzbek grade 1"
 msgstr "Üzbég, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:665
+#: brailleTables.py:671
 msgid "Unicode braille"
 msgstr "Unicode braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:668
+#: brailleTables.py:674
 msgid "Vietnamese grade 0"
 msgstr "Vietnami, rövidítési fokozat 0"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:671
+#: brailleTables.py:677
 msgid "Tshivenda grade 1"
 msgstr "Venda, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:674
+#: brailleTables.py:680
 msgid "Tshivenda grade 2"
 msgstr "Venda, rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:677
+#: brailleTables.py:683
 msgid "Vietnamese grade 1"
 msgstr "Vietnami, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:680
+#: brailleTables.py:686
 msgid "Vietnamese grade 2"
 msgstr "Vietnami, rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:683
+#: brailleTables.py:689
 msgid "Southern Vietnamese grade 1"
 msgstr "Dél-Vietnami, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:686
+#: brailleTables.py:692
 msgid "Xhosa grade 1"
 msgstr "Xhosza, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:689
+#: brailleTables.py:695
 msgid "Xhosa grade 2"
 msgstr "Xhosza rövidítési fokozat 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:692
+#: brailleTables.py:698
 msgid "Yiddish grade 1"
 msgstr "Jiddis, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
 #. This should be translated to '中文中国汉语通用盲文' in Mandarin.
-#: brailleTables.py:697
+#: brailleTables.py:703
 msgid "Chinese common braille (simplified Chinese characters)"
 msgstr "Kínai általános Braille (egyszerűsített kínai írásjelek)"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
 #. This should be translated to '中文中国汉语现行盲文（无声调）' in Mandarin.
-#: brailleTables.py:701
+#: brailleTables.py:707
 msgid "Chinese (China, Mandarin) Current Braille System (no tones)"
 msgstr "Kínai (Kína, mandarin) hagyományos Braille írásrendszer (hangzás nélkül)"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
 #. This should be translated to '中文中国汉语现行盲文' in Mandarin.
-#: brailleTables.py:705
+#: brailleTables.py:711
 msgid "Chinese (China, Mandarin) Current Braille System"
 msgstr "Kínai (Kína, mandarin) hagyományos Braille írásrendszer"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
 #. This should be translated to '中文中国汉语双拼盲文' in Mandarin.
-#: brailleTables.py:709
+#: brailleTables.py:715
 msgid "Chinese (China, Mandarin) Double-phonic Braille System"
 msgstr "Kínai (Kína, mandarin) kétcellás Braille írásrendszer"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:712
+#: brailleTables.py:718
 msgid "Chinese (Hong Kong, Cantonese)"
 msgstr "kínai (Hong Kong, kantoni)"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:715
+#: brailleTables.py:721
 msgid "Chinese (Taiwan, Mandarin)"
 msgstr "Kínai (Taiwan, Mandarin)"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:719
+#: brailleTables.py:725
 msgid "Zulu grade 1"
 msgstr "Zulu, rövidítési fokozat 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
-#: brailleTables.py:722
+#: brailleTables.py:728
 msgid "Zulu grade 2"
 msgstr "Zulu, rövidítési fokozat 2"
 
@@ -2972,7 +2984,7 @@ msgstr "Vége"
 #. Translators: Description for the Move past end of container command in browse mode.
 #: browseMode.py:2337
 msgid "Moves past the end of the container element, such as a list or table"
-msgstr ""
+msgstr "Egy elemblokk (pl. lista vagy táblázat) végére ugrik"
 
 #. Translators: the description for the toggleScreenLayout script.
 #. Translators: the description for the toggleScreenLayout script on virtualBuffers.
@@ -3069,7 +3081,7 @@ msgstr "Csak az írásjel szintje alatt"
 #. Translators: The name of a symbols dictionary with data from the unicode CLDR.
 #: characterProcessing.py:897
 msgid "Unicode Consortium data (including emoji)"
-msgstr ""
+msgstr "Unicode konzorcium adatok (beleértve az emojikat is)"
 
 #. Translators: a transparent color, {colorDescription} replaced with the full description of the color e.g.
 #. "transparent bright orange-yellow"
@@ -3919,27 +3931,27 @@ msgstr "Betűméret bemondása bekapcsolva"
 #. Translators: Input help mode message for toggle report font attributes command.
 #: globalCommands.py:579
 msgid "Cycles font attribute reporting between speech, braille, speech and braille, and off."
-msgstr ""
+msgstr "Betűtípus paraméterek jelzésének beállítása. Az opciók: Beszéd, Braille, Beszéd és Braille ill. ki."
 
 #. Translators: A state in which font attributes are not reported.
 #: globalCommands.py:589
 msgid "Do not report font attributes"
-msgstr ""
+msgstr "Betűtípus paraméterek: Ki"
 
 #. Translators: A state in which font attributes are only spoken.
 #: globalCommands.py:592
 msgid "Speak font attributes"
-msgstr ""
+msgstr "Betűtípus paraméterek: Beszéd"
 
 #. Translators: A state in which font attributes are only brailled.
 #: globalCommands.py:595
 msgid "Braille font attributes"
-msgstr ""
+msgstr "Betűtípus paraméterek: Braille"
 
 #. Translators: A state in which font attributes are both spoken and brailled.
 #: globalCommands.py:598
 msgid "Speak and braille font attributes"
-msgstr ""
+msgstr "Betűtípus paraméterek: Beszéd és Braille"
 
 #. Translators: Input help mode message for toggle superscripts and subscripts command.
 #: globalCommands.py:604
@@ -5357,17 +5369,17 @@ msgstr "Braille kurzor be"
 #. Translators: Input help mode message for speak on routing command.
 #: globalCommands.py:3598
 msgid "Toggles speaking the character under the cursor when routing cursor in text"
-msgstr ""
+msgstr "Karakter felolvasása, amikor a kurzort egy szövegre mozgatjuk opció be- és kikapcsolása."
 
 #. Translators: The message announced when toggling on speaking character when routing.
 #: globalCommands.py:3606
 msgid "Enabled speak character when routing cursor in text"
-msgstr ""
+msgstr "Karakter felolvasása szövegre mozgatott kurzornál bekapcsolva"
 
 #. Translators: The message announced when toggling off speaking character when routing.
 #: globalCommands.py:3609
 msgid "Disabled speak character when routing cursor in text"
-msgstr ""
+msgstr "Karakter felolvasása szövegre mozgatott kurzornál Kikapcsolva"
 
 #. Translators: Input help mode message for cycle braille cursor shape command.
 #: globalCommands.py:3614
@@ -6316,25 +6328,25 @@ msgid "tab"
 msgstr "tab"
 
 #. Translators: One of the keyboard layouts for NVDA.
-#: keyboardHandler.py:440
+#: keyboardHandler.py:443
 msgid "desktop"
 msgstr "Asztali"
 
 #. Translators: One of the keyboard layouts for NVDA.
-#: keyboardHandler.py:442
+#: keyboardHandler.py:445
 msgid "laptop"
 msgstr "Laptop"
 
 #. Translators: Reported for an unknown key press.
 #. %s will be replaced with the key code.
-#: keyboardHandler.py:530
+#: keyboardHandler.py:533
 #, python-format
 msgid "unknown %s"
 msgstr "ismeretlen %s"
 
 #. Translators: a state that denotes a control is currently on
 #. E.g. a switch control.
-#: keyboardHandler.py:600 synthSettingsRing.py:117 controlTypes\state.py:198
+#: keyboardHandler.py:603 synthSettingsRing.py:117 controlTypes\state.py:198
 #: gui\speechDict.py:198
 msgid "on"
 msgstr "bekapcsolva"
@@ -6343,7 +6355,7 @@ msgstr "bekapcsolva"
 #. Translators: An option for progress bar output in the Object Presentation dialog
 #. which disables reporting of progress bars.
 #. See Progress bar output in the Object Presentation Settings section of the User Guide.
-#: keyboardHandler.py:600 synthSettingsRing.py:117 controlTypes\state.py:221
+#: keyboardHandler.py:603 synthSettingsRing.py:117 controlTypes\state.py:221
 #: gui\settingsDialogs.py:2272 gui\speechDict.py:198
 msgid "off"
 msgstr "kikapcsolva"
@@ -6351,13 +6363,13 @@ msgstr "kikapcsolva"
 #. Translators: Used when describing keys on the system keyboard with a particular layout.
 #. %s is replaced with the layout name.
 #. For example, in English, this might produce "laptop keyboard".
-#: keyboardHandler.py:716
+#: keyboardHandler.py:719
 #, python-format
 msgid "%s keyboard"
 msgstr "%s billentyűzet"
 
 #. Translators: Used when describing keys on the system keyboard applying to all layouts.
-#: keyboardHandler.py:721
+#: keyboardHandler.py:724
 msgid "keyboard, all layouts"
 msgstr "Billentyűzet, összes kiosztás"
 
@@ -8820,7 +8832,7 @@ msgid "meeting request"
 msgstr "Felkérés találkozóra"
 
 #. Translators: The name of a category of NVDA commands.
-#: appModules\poedit.py:29
+#: appModules\poedit.py:27
 msgid "Poedit"
 msgstr "Poedit"
 
@@ -8828,7 +8840,7 @@ msgstr "Poedit"
 #. to be presented to the user in Poedit.
 #. {description} is replaced by the description of the window to be reported,
 #. e.g. translator notes
-#: appModules\poedit.py:162
+#: appModules\poedit.py:115
 #, python-brace-format
 msgctxt "poedit"
 msgid "No {description}"
@@ -8837,63 +8849,63 @@ msgstr "Nincs {description}"
 #. Translators: this message is reported when NVDA is unable to find
 #. a requested window in Poedit.
 #. {description} is replaced by the description of the window to be reported, e.g. translator notes
-#: appModules\poedit.py:169
+#: appModules\poedit.py:122
 #, python-brace-format
 msgctxt "poedit"
 msgid "Could not find {description} window."
 msgstr "A következő ablak nem található: {description}."
 
 #. Translators: The description of an NVDA command for Poedit.
-#: appModules\poedit.py:176
+#: appModules\poedit.py:129
 msgctxt "poedit"
 msgid "Reports any notes for translators. If pressed twice, presents the notes in browse mode"
 msgstr "Bemondja a fordítóknak szánt megjegyzéseket. Kétszeri lenyomásra az információt egy böngészőmódú ablakban jeleníti meg."
 
 #. Translators: The description of the "Translator notes" window in poedit.
 #. This text is reported when the given window contains no item to report or could not be found.
-#: appModules\poedit.py:187
+#: appModules\poedit.py:140
 msgctxt "poedit"
 msgid "notes for translators"
 msgstr "Megjegyzések a fordítóknak"
 
 #. Translators: The description of an NVDA command for Poedit.
-#: appModules\poedit.py:202
+#: appModules\poedit.py:153
 msgctxt "poedit"
 msgid "Reports any comment in the comments window. If pressed twice, presents the comment in browse mode"
 msgstr "Bemondja a megjegyzések ablak tartalmát. Kétszeri lenyomásra az információ egy böngészőmódú ablakban jelenik meg."
 
 #. Translators: The description of the "comment" window in poedit.
 #. This text is reported when the given window contains no item to report or could not be found.
-#: appModules\poedit.py:214
+#: appModules\poedit.py:165
 msgctxt "poedit"
 msgid "comment"
 msgstr "megjegyzés"
 
 #. Translators: The description of an NVDA command for Poedit.
-#: appModules\poedit.py:229
+#: appModules\poedit.py:180
 msgctxt "poedit"
-msgid "Reports the old source text, if any. If pressed twice, presents the text in browse mode"
-msgstr "Bemondja a régi forrásszöveget. Kétszeri lenyomásra az információt egy böngészőmódú ablakban jeleníti meg."
+msgid "Reports the previous source text, if any. If pressed twice, presents the text in browse mode"
+msgstr "Korábbi forrrásszöveg bemondása, ha van. Kétszeri lenyomásra az információt egy böngészhető üzenetben jeleníti meg"
 
-#. Translators: The description of the "old source text" window in poedit.
+#. Translators: The description of the "previous source text" window in poedit.
 #. This text is reported when the given window contains no item to report or could not be found.
-#: appModules\poedit.py:240
+#: appModules\poedit.py:191
 msgctxt "poedit"
-msgid "old source text"
-msgstr "Régi forrásszöveg"
+msgid "previous source text"
+msgstr "korábbi forrásszöveg"
 
 #. Translators: The description of an NVDA command for Poedit.
-#: appModules\poedit.py:255
+#: appModules\poedit.py:206
 msgctxt "poedit"
-msgid "Reports a translation warning, if any. If pressed twice, presents the warning in browse mode"
-msgstr "Bemondja a fordítási figyelmeztetéseket. Kétszeri lenyomásra az információ egy böngészőmódú ablakban jelenik meg."
+msgid "Reports a translation issue, if any. If pressed twice, presents the warning in browse mode"
+msgstr "Fordítási hiba jelzése, ha van. Kétszeri lenyomásra az információt egy böngészhető üzenetben jeleníti meg"
 
-#. Translators: The description of the "translation warning" window in poedit.
+#. Translators: The description of the "translation issue" window in poedit.
 #. This text is reported when the given window contains no item to report or could not be found.
-#: appModules\poedit.py:266
+#: appModules\poedit.py:217
 msgctxt "poedit"
-msgid "translation warning"
-msgstr "Fordítási figyelmeztetés"
+msgid "translation issue"
+msgstr "Fordítási probléma"
 
 #. Translators: The name of a category of NVDA commands.
 #: appModules\powerpnt.py:43
@@ -9550,8 +9562,9 @@ msgstr "Caiku Albatross 46/80"
 #. Translators: A message when number of status cells must be changed
 #. for a braille display driver
 #: brailleDisplayDrivers\albatross\driver.py:485
-msgid "To use Albatross with NVDA: change number of status cells in Albatross internal menu at most "
-msgstr "Az Albatros használatához a kijelző belső menüjében állítsa az állapotcellák számát maximumra."
+#, python-brace-format
+msgid "To use an Albatross with NVDA, change the number of status cells in the Albatross's internal menu to at most {maxCells}, and restart the Albatross and NVDA if needed."
+msgstr "Az Albatross kijelző használatához meg kell változtatni az állapotcellák számát az Albatross's belső menüjében erre:  {maxCells}, ezután újra kell indítani az Albatrosst és az NVDA-t is, ha szükséges."
 
 #. Translators: Names of braille displays.
 #: brailleDisplayDrivers\eurobraille\constants.py:10
@@ -9707,19 +9720,19 @@ msgstr "Értesítsen"
 #. Translators: A label for an option to choose a method of reporting information, e.g. font attributes.
 #: config\configFlags.py:252
 msgid "Speech and braille"
-msgstr ""
+msgstr "Beszéd és Braille"
 
 #. Translators: This is a label for a paragraph start marker.
 #: config\configFlags.py:265
 msgctxt "paragraphMarker"
 msgid "No paragraph start marker (default)"
-msgstr ""
+msgstr "Nincs bekezdés kezdetét jelző jel (alapértelmezett)"
 
 #. Translators: This is a label for a paragraph start marker.
 #: config\configFlags.py:267
 msgctxt "paragraphMarker"
 msgid "Double space (  )"
-msgstr ""
+msgstr "Dupla szóköz (  )"
 
 #. Translators: This is a label for a paragraph start marker.
 #. Pilcrow is a symbol also known as "paragraph symbol" or "paragraph marker".
@@ -9727,7 +9740,7 @@ msgstr ""
 #: config\configFlags.py:271
 msgctxt "paragraphMarker"
 msgid "Pilcrow (¶)"
-msgstr ""
+msgstr "Bekezdésjel (¶)"
 
 #. Translators: Label for an option in NVDA settings.
 #: config\featureFlagEnums.py:53
@@ -9782,7 +9795,7 @@ msgstr ""
 #. Translators: Label for a way of outputting formatting in braille.
 #: config\featureFlagEnums.py:138
 msgid "Tags"
-msgstr ""
+msgstr "címkék"
 
 #. Translators: The title of the document used to present the result of content recognition.
 #: contentRecog\recogUi.py:39
@@ -12468,7 +12481,7 @@ msgstr "&Betűzés használata, ha támogatott"
 #. Translators: Label of the list where user can enable or disable symbol dictionaires.
 #: gui\settingsDialogs.py:1746
 msgid "E&xtra dictionaries for character and symbol processing:"
-msgstr ""
+msgstr "E&xtra szótárak a karakterek és szimbólumok feldolgozásához"
 
 #. Translators: Label of the list where user can select speech modes that will be available.
 #: gui\settingsDialogs.py:1760
@@ -12571,7 +12584,7 @@ msgstr "&Alkalmazások billentyűleütéseinek kezelése"
 #. Translators: The label for a control in keyboard settings to modify the timeout for a multiple keypress.
 #: gui\settingsDialogs.py:1991
 msgid "&Multiple key press timeout (ms):"
-msgstr ""
+msgstr "&Többszöri lenyomás időkorlátja (ms):"
 
 #. Translators: Message to report wrong configuration of the NVDA key
 #: gui\settingsDialogs.py:2007
@@ -13677,7 +13690,7 @@ msgstr "B&ekezdésenkénti olvasás"
 #. Translators: This is a label for a combo-box in the Braille settings panel to select paragraph start markers.
 #: gui\settingsDialogs.py:4394
 msgid "Paragraph start marker:"
-msgstr ""
+msgstr "Bekezdés kezdetének jelzése:"
 
 #. Translators: The label for a setting in braille settings to select how the context for the focus object should be presented on a braille display.
 #: gui\settingsDialogs.py:4409
@@ -13692,12 +13705,12 @@ msgstr "Ki&jelölés megjelenítése"
 #. Translators: This is a label for a combo-box in the Braille settings panel.
 #: gui\settingsDialogs.py:4442
 msgid "Formatting &display"
-msgstr ""
+msgstr "&Formázás megjelenítése"
 
 #. Translators: The label for a setting in braille settings to speak the character under the cursor when cursor routing in text.
 #: gui\settingsDialogs.py:4451
 msgid "Spea&k character when routing cursor in text"
-msgstr ""
+msgstr "&Karakter felolvasása, amikor a kurzort egy szövegre mozgatjuk."
 
 #. Translators: The label for a setting in braille settings to enable word wrap
 #. (try to avoid splitting words at the end of the braille display).
@@ -14737,7 +14750,7 @@ msgstr "matematikai áttekintés nem támogatott."
 #: NVDAObjects\__init__.py:662
 #, python-brace-format
 msgid "Object edges positioned {left:.1f} percent from left edge of screen, {top:.1f} percent from top edge of screen, width is {width:.1f} percent of screen, height is {height:.1f} percent of screen"
-msgstr ""
+msgstr "Az objektum pozíciója {left:.1f} százalék a képernyő bal és {top:.1f} százalék a képernyő felső szélétől, szélessége {width:.1f} százaléka, míg magassága {height:.1f} százaléka a képernyőnek"
 
 #. Translators: This is presented to inform the user of a progress bar percentage.
 #. Translators: This is presented to inform the user of the current battery percentage.
@@ -14848,13 +14861,13 @@ msgstr "{rowNumber}. sor és {columnNumber}. oszlop már be lett állítva oszlo
 #: NVDAObjects\IAccessible\winword.py:279
 #, python-brace-format
 msgid "Removed row {rowNumber} column {columnNumber} from column headers"
-msgstr ""
+msgstr "Sor {rowNumber} oszlop {columnNumber} eltávolítva az oszlopfejlécek közül"
 
 #. Translators: a message reported in the SetColumnHeader script for Microsoft Word.
 #: NVDAObjects\IAccessible\winword.py:287
 #, python-brace-format
 msgid "Cannot find row {rowNumber} column {columnNumber} in column headers"
-msgstr ""
+msgstr "Sor {rowNumber} oszlop {columnNumber} nem található az oszlopfejlécek között"
 
 #. Translators: The label of a shortcut of NVDA.
 #: NVDAObjects\IAccessible\winword.py:297
@@ -14877,18 +14890,18 @@ msgstr "{rowNumber}. sor és {columnNumber}. oszlop már be lett állítva sorfe
 #: NVDAObjects\IAccessible\winword.py:331
 #, python-brace-format
 msgid "Removed row {rowNumber} column {columnNumber} from row headers"
-msgstr ""
+msgstr "Sor {rowNumber} oszlop {columnNumber} eltávolítva a sorfejlécek közül"
 
 #. Translators: a message reported in the SetRowHeader script for Microsoft Word.
 #: NVDAObjects\IAccessible\winword.py:339
 #, python-brace-format
 msgid "Cannot find row {rowNumber} column {columnNumber} in row headers"
-msgstr ""
+msgstr "Sor {rowNumber} oszlop {columnNumber} nem található a sorfejlécek között"
 
 #. Translators: a description for a script
 #: NVDAObjects\IAccessible\winword.py:387
 msgid "Reports the text of the comment where the system caret is located.If pressed twice, presents the information in browse mode."
-msgstr ""
+msgstr "A rendszerkurzornál lévő hozzászólás szövegének bemondása. Kétszeri lenyomásra az információ egy böngészhető üzenetben jelenik meg"
 
 #. Translators: a message when there is no comment to report in Microsoft Word
 #: NVDAObjects\IAccessible\winword.py:420 NVDAObjects\UIA\wordDocument.py:684
@@ -14922,8 +14935,8 @@ msgstr "aktiválás"
 #: NVDAObjects\UIA\__init__.py:2704
 msgid "{} suggestion"
 msgid_plural "{} suggestions"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{} javaslat"
+msgstr[1] "{} javaslat"
 
 #. Translators: the description of a script
 #: NVDAObjects\UIA\excel.py:195
@@ -15131,7 +15144,7 @@ msgstr "A mondatonkénti navigáció ebben a dokumentumban nem támogatott."
 #. Translators: a description for a script that reports the comment at the caret.
 #: NVDAObjects\UIA\wordDocument.py:662
 msgid "Reports the text of the comment where the system caret is located. If pressed twice, presents the information in a browsable message"
-msgstr ""
+msgstr "A rendszerkurzornál lévő hozzászólás szövegének bemondása. Kétszeri lenyomásra az információ egy böngészhető üzenetben jelenik meg"
 
 #. Translators: The message reported in Microsoft Word for document types not supporting setting custom
 #. headers.
@@ -15598,7 +15611,7 @@ msgstr "elem"
 #: NVDAObjects\window\_msOfficeChart.py:805
 #, python-brace-format
 msgid "Series color: {colorName}"
-msgstr ""
+msgstr "Sorozat színe: {colorName}"
 
 #. Translators: A type of element in a Microsoft Office chart.
 #: NVDAObjects\window\_msOfficeChart.py:446
@@ -16208,13 +16221,13 @@ msgstr "{address} már be van állítva oszlopfejlécnek."
 #: NVDAObjects\window\excel.py:1632
 #, python-brace-format
 msgid "Removed {address} from column headers"
-msgstr ""
+msgstr "{address} eltávolítva az oszlopfejlécek közül"
 
 #. Translators: a message reported in the SetColumnHeader script for Excel.
 #: NVDAObjects\window\excel.py:1636
 #, python-brace-format
 msgid "Cannot find {address} in column headers"
-msgstr ""
+msgstr "{address} nem található az oszlopfejlécek között"
 
 #. Translators: the description for a script for Excel
 #: NVDAObjects\window\excel.py:1642
@@ -16264,7 +16277,7 @@ msgstr "A beviteli üzenet a következő: {message}"
 #. Translators: the description for a script for Excel
 #: NVDAObjects\window\excel.py:1850
 msgid "Reports the note on the current cell. If pressed twice, presents the information in browse mode"
-msgstr ""
+msgstr "Megjegyzés bemondása az aktuális cellán. Kétszeri lenyomásra az információ egy böngészhető üzenetben jelenik meg"
 
 #. Translators: title for note on the current Excel cell dialog.
 #. Translators: Title for the note editing  dialog

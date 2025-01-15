@@ -13,7 +13,7 @@ from . import configDefaults
 #: provide an upgrade step (@see profileUpgradeSteps.py). An upgrade step does not need to be added when
 #: just adding a new element to (or removing from) the schema, only when old versions of the config
 #: (conforming to old schema versions) will not work correctly with the new schema.
-latestSchemaVersion = 13
+latestSchemaVersion = 14
 
 #: The configuration specification string
 #: @type: String
@@ -35,13 +35,12 @@ schemaVersion = integer(min=0, default={latestSchemaVersion})
 	# symbolLevel: One of the characterProcessing.SymbolLevel values.
 	symbolLevel = integer(default=100)
 	trustVoiceLanguage = boolean(default=true)
-	unicodeNormalization = featureFlag(optionsEnum="BoolFlag", behaviorOfDefault="disabled")
+	unicodeNormalization = featureFlag(optionsEnum="BoolFlag", behaviorOfDefault="enabled")
 	reportNormalizedForCharacterNavigation = boolean(default=true)
 	# Deprecated in 2025.1
 	includeCLDR = boolean(default=True)
 	symbolDictionaries = string_list(default=list("cldr"))
 	beepSpeechModePitch = integer(default=10000,min=50,max=11025)
-	outputDevice = string(default=default)
 	autoLanguageSwitching = boolean(default=true)
 	autoDialectSwitching = boolean(default=false)
 	delayedCharacterDescriptions = boolean(default=false)
@@ -55,8 +54,8 @@ schemaVersion = integer(min=0, default={latestSchemaVersion})
 
 # Audio settings
 [audio]
+	outputDevice = string(default=default)
 	audioDuckingMode = integer(default=0)
-	WASAPI = featureFlag(optionsEnum="BoolFlag", behaviorOfDefault="enabled")
 	soundVolumeFollowsVoice = boolean(default=false)
 	soundVolume = integer(default=100, min=0, max=100)
 	audioAwakeTime = integer(default=30, min=0, max=3600)
@@ -71,8 +70,8 @@ schemaVersion = integer(min=0, default={latestSchemaVersion})
 [braille]
 	display = string(default=auto)
 	mode = option("followCursors", "speechOutput", default="followCursors")
-	translationTable = string(default=en-ueb-g1.ctb)
-	inputTable = string(default=en-ueb-g1.ctb)
+	translationTable = string(default=auto)
+	inputTable = string(default=auto)
 	expandAtCursor = boolean(default=true)
 	showCursor = boolean(default=true)
 	cursorBlink = boolean(default=true)
@@ -94,6 +93,7 @@ schemaVersion = integer(min=0, default={latestSchemaVersion})
 	focusContextPresentation = option("changedContext", "fill", "scroll", default="changedContext")
 	interruptSpeechWhileScrolling = featureFlag(optionsEnum="BoolFlag", behaviorOfDefault="enabled")
 	speakOnRouting = boolean(default=false)
+	speakOnNavigatingByUnit = boolean(default=false)
 	showSelection = featureFlag(optionsEnum="BoolFlag", behaviorOfDefault="enabled")
 	reportLiveRegions = featureFlag(optionsEnum="BoolFlag", behaviorOfDefault="enabled")
 	fontFormattingDisplay = featureFlag(optionsEnum="FontFormattingBrailleModeFlag", behaviorOfDefault="LIBLOUIS")
@@ -291,6 +291,7 @@ schemaVersion = integer(min=0, default={latestSchemaVersion})
 	startupNotification = boolean(default=true)
 	allowUsageStats = boolean(default=false)
 	askedAllowUsageStats = boolean(default=false)
+	serverURL = string(default="")
 
 [inputComposition]
 	autoReportAllCandidates = boolean(default=True)
@@ -320,9 +321,6 @@ schemaVersion = integer(min=0, default={latestSchemaVersion})
 	language = string(default="")
 	autoRefresh = boolean(default=false)
 	autoRefreshInterval = integer(default=1500, min=100)
-
-[upgrade]
-	newLaptopKeyboardLayout = boolean(default=false)
 
 [editableText]
 	caretMoveTimeoutMs = integer(min=0, max=2000, default=100)
